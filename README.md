@@ -19,10 +19,6 @@ Visit my [Darkweb](q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onio
 
 ## NinjaBlog
 
-COMING SOON!!
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ➡️ [more blog posts...](https://ninjajoe9.github.io/)
 
 <br />
