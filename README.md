@@ -1,4 +1,4 @@
-### Welcome to Jack's Codecrypt ⠠⠵
+# Welcome to Jack's Codecrypt ⠠⠵
 ## Jack Locke
 *Space Enthusiast, Amateur Hacker, Future Cyborg.* 🚀💻🤖
 
