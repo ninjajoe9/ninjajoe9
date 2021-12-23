@@ -17,4 +17,9 @@ Send me a message on Discord @Skuttlefish9#9707 for some free 忍円!
 
 Visit my Darkweb site - q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion
 
+## NinjaBlog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <|>
