@@ -1,16 +1,18 @@
-### Hi there 👋
+### Welcome to Jack's Codecrypt ⠠⠵
+## Jack Locke
+** Space Enthusiast, Amateur Hacker, Future Cyborg. ** 🚀💻🤖
 
-<!--
-**ninjajoe9/ninjajoe9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
+- Robotics
+- Decentralized Technologies
+- Radio
+- Hacking
+- Electronic/Computer Engineering 
 
-Here are some ideas to get you started:
+Check out my Cryptocurrency 忍円 (Nin-En) NINE on solscan
+(AsJkh4kbD2UszLxztWQ49AHj6NkK8UMYbpGmnDdpNCf6)[https://solscan.io/token/AsJkh4kbD2UszLxztWQ49AHj6NkK8UMYbpGmnDdpNCf6]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit my Darkweb site - q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion
+
+<|>
+
