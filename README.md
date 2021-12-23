@@ -15,13 +15,15 @@ Check out my Cryptocurrency 忍円 (Nin-En) NINE on solscan
 Send me a message on Discord @Skuttlefish9#9707 for some free 忍円! 
 (subject to availibility and my connection to you)
 
-Visit my Darkweb site - q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion
+Visit my [Darkweb](q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion) site - q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion
 
 ## NinjaBlog
 
 COMING SOON!!
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://ninjajoe9.github.io/)
 
 <br />
 <|>
