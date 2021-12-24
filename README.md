@@ -23,7 +23,7 @@ Visit my [Darkweb](q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onio
 ---
 
 <img align="left" alt="Jack's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ninjajoe9&show_icons=true&theme=dark" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjajoe9)](https://github.com/ninjajoe9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjajoe9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 ---
