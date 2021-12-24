@@ -9,8 +9,7 @@
 - Hacking
 - Electronic/Computer Engineering 
 
-<img src="https://raw.githubusercontent.com/ninjajoe9/crypto/main/logo.png" alt="Wiring Diagram" width="50"/>
-Check out my Cryptocurrency 忍円 (Nin-En) NINE on solscan
+<img src="https://raw.githubusercontent.com/ninjajoe9/crypto/main/logo.png" alt="Wiring Diagram" width="50"/> Check out my Cryptocurrency 忍円 (Nin-En) NINE on solscan
 [AsJkh4kbD2UszLxztWQ49AHj6NkK8UMYbpGmnDdpNCf6](https://solscan.io/token/AsJkh4kbD2UszLxztWQ49AHj6NkK8UMYbpGmnDdpNCf6)\
 
 Send me a message on Discord @Skuttlefish9#9707 for some free 忍円! 
