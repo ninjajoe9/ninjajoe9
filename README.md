@@ -20,6 +20,10 @@ Visit my [Darkweb](q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onio
 ## NinjaBlog
 
 ➡️ [more blog posts...](https://ninjajoe9.github.io/)
+---
 
-<br />
+<img align="left" alt="Jack's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ninjajoe9&show_icons=true&hide_border=true" />
+
+
+---
 <|>
