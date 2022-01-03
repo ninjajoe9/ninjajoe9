@@ -24,7 +24,7 @@
 <img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/RPi-Logo-Reg-SCREEN.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="Etherum" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/ethereum.png" style="vertical-align:middle;margin:0px 5px" />  
 <img align="left" alt="Solidity" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/logo.svg" style="vertical-align:middle;margin:0px 5px" />  
-<img align="left" alt="AWS IOT" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/AWSIoT.png"/>
+<img align="left" alt="AWS IOT" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/AWSIoT.png" style="vertical-align:middle;margin:0px 5px"/>
 <img align="left" alt="AWS Lambda" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/lambda.png" style="vertical-align:middle;margin:0px 5px" />  
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/git.png" style="vertical-align:middle;margin:0px 5px" /> 
 <img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/github.png" style="vertical-align:middle;margin:0px 5px" /> 
