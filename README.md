@@ -22,7 +22,6 @@
 <img align="left" alt="LoRa Radio" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/lora.png" style="vertical-align:middle;margin:0px 5px" /> 
 <br />
 <br />
-<br />
 <img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/opencv.svg.png" style="vertical-align:middle;margin:0px 5px" />  
 <img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/Tensorflow_logo.svg.png" style="vertical-align:middle;margin:0px 5px" />  
 <img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/RPi-Logo-Reg-SCREEN.png" style="vertical-align:middle;margin:0px 5px" />
@@ -32,7 +31,7 @@
 <img align="left" alt="AWS Lambda" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/lambda.png" style="vertical-align:middle;margin:0px 5px" />  
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/git.png" style="vertical-align:middle;margin:0px 5px" /> 
 <img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/github.png" style="vertical-align:middle;margin:0px 5px" /> 
-
+<br />
 <br />
 
 ### Other Links
