@@ -51,9 +51,9 @@ Visit my [Darkweb](q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onio
 
 Check out my blog for musings about robots, hacking, technology, futureism, philosophy, movies and more!
 
-[20211223 - New year, New Blog](https://ninjajoe9.github.io/2021/12/23/new-year-new-blog.html)
-<br />
 [20220103 - Comming Soon!](https://ninjajoe9.github.io/2022/01/03/comming-soon.html) 
+<br />
+[20211223 - New year, New Blog](https://ninjajoe9.github.io/2021/12/23/new-year-new-blog.html)
 
 ➡️ [more blog posts...](https://ninjajoe9.github.io/)
 ---
