@@ -2,14 +2,14 @@
 ## Jack Locke
 *Space Enthusiast, Amateur Hacker, Future Cyborg.* 🚀💻🤖
 
-## Interests
+### Interests
 - Robotics
 - Decentralized Technologies
 - Radio
 - Hacking
 - Electronic/Computer Engineering 
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/Python.png" style="vertical-align:middle;margin:0px 5px" />  
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/c.png" style="vertical-align:middle;margin:0px 5px" />  
@@ -32,7 +32,7 @@
 <br />
 <br />
 
-## Other Links
+### Other Links
 <img src="https://raw.githubusercontent.com/ninjajoe9/crypto/main/logo.png" alt="Nin-En Logo" width="50" style="vertical-align:middle;margin:10px 10px"/> 
 Check out my Cryptocurrency 忍円 (Nin-En) NINE on solscan
 
@@ -44,6 +44,8 @@ Send me a message on Discord @Skuttlefish9#9707 for some free 忍円!
 Visit my [Darkweb](q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion) site - q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion
 
 ## NinjaBlog
+
+Check out my blog for musings about robots, hacking, technology, futureism, philosophy, movies and more!
 
 ➡️ [more blog posts...](https://ninjajoe9.github.io/)
 ---
