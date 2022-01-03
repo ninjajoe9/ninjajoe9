@@ -29,9 +29,6 @@
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/git.png" style="vertical-align:middle;margin:0px 5px" /> 
 <img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/github.png" style="vertical-align:middle;margin:0px 5px" /> 
 
-<br />
-<br />
-
 ### Other Links
 <img src="https://raw.githubusercontent.com/ninjajoe9/crypto/main/logo.png" alt="Nin-En Logo" width="50" style="vertical-align:middle;margin:10px 10px"/> 
 Check out my Cryptocurrency 忍円 (Nin-En) NINE on solscan
@@ -48,6 +45,7 @@ Visit my [Darkweb](q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onio
 Check out my blog for musings about robots, hacking, technology, futureism, philosophy, movies and more!
 
 [20211223 - New year, New Blog](https://ninjajoe9.github.io/2021/12/23/new-year-new-blog.html)
+<br />
 [20220103 - Comming Soon!](https://ninjajoe9.github.io/2022/01/03/comming-soon.html) 
 
 ➡️ [more blog posts...](https://ninjajoe9.github.io/)
