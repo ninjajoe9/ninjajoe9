@@ -13,11 +13,17 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/Python.png" style="vertical-align:middle;margin:0px 5px" />  
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/c.png" style="vertical-align:middle;margin:0px 5px" />  
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/cpp.png" style="vertical-align:middle;margin:0px 5px" />  
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/node.png" style="vertical-align:middle;margin:0px 5px" />  
-<img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/matlab.png" style="vertical-align:middle;margin:0px 5px" />  
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/cpp.png" style="vertical-align:middle;margin:0px 5px" />   
+<img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/matlab.png" style="vertical-align:middle;margin:0px 5px" />
+<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/html5.png" style="vertical-align:middle;margin:0px 5px" />  
+<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/css.png" style="vertical-align:middle;margin:0px 5px" />  
+<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/js.png" style="vertical-align:middle;margin:0px 5px" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/node.png" style="vertical-align:middle;margin:0px 5px" />     
 <img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/sqlite.png" style="vertical-align:middle;margin:0px 5px" />  
-<img align="left" alt="Jupyter Notebooks" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/jupyter.svg.png" style="vertical-align:middle;margin:0px 5px" />  
+<img align="left" alt="Jupyter Notebooks" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/jupyter.svg.png" style="vertical-align:middle;margin:0px 5px" />
+<br />
+<br />
+<br />
 <img align="left" alt="LoRa Radio" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/lora.png" style="vertical-align:middle;margin:0px 5px" />  
 <img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/opencv.svg.png" style="vertical-align:middle;margin:0px 5px" />  
 <img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/Tensorflow_logo.svg.png" style="vertical-align:middle;margin:0px 5px" />  
