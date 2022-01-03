@@ -1,6 +1,6 @@
 # Welcome to Jack's Codecrypt ⠠⠵
 ## Jack Locke
-*Space Enthusiast, Amateur Hacker, Future Cyborg.* 🚀💻🤖
+*Space Enthusiast, Amateur Hacker, Future Cyborg.* 🚀 💻 🤖 
 
 ### Interests
 - Robotics
