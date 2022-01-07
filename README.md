@@ -9,7 +9,7 @@
 - Hacking
 - Electronic/Computer Engineering 
 
-### Languages and Tools - Ranked by Familiarity 
+### Languages and Tools - (ranked by familiarity) 
 #### Languages
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/Python.png" style="vertical-align:middle;margin:0px 5px" />  
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/c.png" style="vertical-align:middle;margin:0px 5px" />  
@@ -22,7 +22,6 @@
 <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/js.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/html.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/css.png" style="vertical-align:middle;margin:0px 5px" /> 
-<br>
 <br>
 
 #### Tools 
