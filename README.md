@@ -17,8 +17,8 @@
 <img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/matlab.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="Jupyter Notebooks" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/jupyter.svg.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/sqlite.png" style="vertical-align:middle;margin:0px 5px" /> 
-<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/js.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/node.png" style="vertical-align:middle;margin:0px 5px" />  
+<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/js.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/html.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/css.png" style="vertical-align:middle;margin:0px 5px" /> 
 <br>
