@@ -51,7 +51,7 @@
 
 * If you have a TOR browser visit my [Darkweb](q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion) site - q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion
 
-* If you're on the amateur radio waves (HAM) listen for me! - **KX7FOX**
+* If you're on the amateur radio waves (HAM) listen for me! - ⚡️**KX7FOX**⚡️
 
 ## NinjaBlog
 
