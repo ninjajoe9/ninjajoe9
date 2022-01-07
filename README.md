@@ -47,7 +47,7 @@
     - [AsJkh4kbD2UszLxztWQ49AHj6NkK8UMYbpGmnDdpNCf6](https://solscan.io/token/AsJkh4kbD2UszLxztWQ49AHj6NkK8UMYbpGmnDdpNCf6)
 
     - Send me a message on Discord @Skuttlefish9#9707 for some free 忍円! 
-(subject to availibility and my connection to you)
+(subject to availability and my connection to you)
 
 * If you have a TOR browser visit my [Darkweb](q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion) site - q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion
 
@@ -55,9 +55,9 @@
 
 ## NinjaBlog
 
-Check out my blog for musings about robots, hacking, technology, futureism, philosophy, movies and more!
+Check out my blog for musings about robots, hacking, technology, futurism, philosophy, movies and more!
 
-[20220103 - Comming Soon!](https://ninjajoe9.github.io/2022/01/03/comming-soon.html) 
+[20220103 - Coming Soon!](https://ninjajoe9.github.io/2022/01/03/comming-soon.html) 
 <br />
 [20211223 - New year, New Blog](https://ninjajoe9.github.io/2021/12/23/new-year-new-blog.html)
 
