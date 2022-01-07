@@ -11,30 +11,30 @@
 
 ### Languages and Tools - (ranked by familiarity) 
 #### Languages
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/Python.png" style="vertical-align:middle;margin:0px 5px" />  
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/c.png" style="vertical-align:middle;margin:0px 5px" />  
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/cpp.png" style="vertical-align:middle;margin:0px 5px" />   
-<img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/matlab.png" style="vertical-align:middle;margin:0px 5px" />
-<img align="left" alt="Jupyter Notebooks" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/jupyter.svg.png" style="vertical-align:middle;margin:0px 5px" />
-<img align="left" alt="bash scripting" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/bash.png" style="vertical-align:middle;margin:0px 5px" /> 
-<img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/sqlite.png" style="vertical-align:middle;margin:0px 5px" /> 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/node.png" style="vertical-align:middle;margin:0px 5px" />  
-<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/js.png" style="vertical-align:middle;margin:0px 5px" />
-<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/html.png" style="vertical-align:middle;margin:0px 5px" />
-<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/css.png" style="vertical-align:middle;margin:0px 5px" /> 
+<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/Python.png" style="vertical-align:middle;margin:0px 5px" />  
+<img align="left" alt="C" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/c.png" style="vertical-align:middle;margin:0px 5px" />  
+<img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/cpp.png" style="vertical-align:middle;margin:0px 5px" />   
+<img align="left" alt="MATLAB" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/matlab.png" style="vertical-align:middle;margin:0px 5px" />
+<img align="left" alt="Jupyter Notebooks" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/jupyter.svg.png" style="vertical-align:middle;margin:0px 5px" />
+<img align="left" alt="bash scripting" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/bash.png" style="vertical-align:middle;margin:0px 5px" /> 
+<img align="left" alt="SQLite" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/sqlite.png" style="vertical-align:middle;margin:0px 5px" /> 
+<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/node.png" style="vertical-align:middle;margin:0px 5px" />  
+<img align="left" alt="javascript" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/js.png" style="vertical-align:middle;margin:0px 5px" />
+<img align="left" alt="html" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/html.png" style="vertical-align:middle;margin:0px 5px" />
+<img align="left" alt="css" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/css.png" style="vertical-align:middle;margin:0px 5px" /> 
 <br>
 
 #### Tools 
-<img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/RPi-Logo-Reg-SCREEN.png" style="vertical-align:middle;margin:0px 5px" />
-<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/github.png" style="vertical-align:middle;margin:0px 5px" /> 
-<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/git.png" style="vertical-align:middle;margin:0px 5px" /> 
-<img align="left" alt="LoRa Radio" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/lora.png" style="vertical-align:middle;margin:0px 5px" /> 
-<img align="left" alt="AWS IOT" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/awsiot.png" style="vertical-align:middle;margin:0px 5px"/>
-<img align="left" alt="AWS Lambda" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/lambda.png" style="vertical-align:middle;margin:0px 5px" />  
-<img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/opencv.svg.png" style="vertical-align:middle;margin:0px 5px" />  
-<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/Tensorflow_logo.svg.png" style="vertical-align:middle;margin:0px 5px" />  
-<img align="left" alt="Etherum" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/ethereum.png" style="vertical-align:middle;margin:0px 5px" />  
-<img align="left" alt="Solidity" width="30px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/solidity.svg" style="vertical-align:middle;margin:0px 3px" />  
+<img align="left" alt="Raspberry Pi" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/RPi-Logo-Reg-SCREEN.png" style="vertical-align:middle;margin:0px 5px" />
+<img align="left" alt="github" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/github.png" style="vertical-align:middle;margin:0px 5px" /> 
+<img align="left" alt="git" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/git.png" style="vertical-align:middle;margin:0px 5px" /> 
+<img align="left" alt="LoRa Radio" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/lora.png" style="vertical-align:middle;margin:0px 5px" /> 
+<img align="left" alt="AWS IOT" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/awsiot.png" style="vertical-align:middle;margin:0px 5px"/>
+<img align="left" alt="AWS Lambda" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/lambda.png" style="vertical-align:middle;margin:0px 5px" />  
+<img align="left" alt="OpenCV" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/opencv.svg.png" style="vertical-align:middle;margin:0px 5px" />  
+<img align="left" alt="TensorFlow" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/Tensorflow_logo.svg.png" style="vertical-align:middle;margin:0px 5px" />  
+<img align="left" alt="Etherum" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/ethereum.png" style="vertical-align:middle;margin:0px 5px" />  
+<img align="left" alt="Solidity" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/solidity.svg" style="vertical-align:middle;margin:0px 3px" />  
 
 
 <br />
