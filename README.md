@@ -16,14 +16,15 @@
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/cpp.png" style="vertical-align:middle;margin:0px 5px" />   
 <img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/matlab.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="Jupyter Notebooks" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/jupyter.svg.png" style="vertical-align:middle;margin:0px 5px" />
+<img align="left" alt="bash scripting" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/bash.jpg" style="vertical-align:middle;margin:0px 5px" /> 
 <img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/sqlite.png" style="vertical-align:middle;margin:0px 5px" /> 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/node.png" style="vertical-align:middle;margin:0px 5px" />  
 <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/js.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/html.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/css.png" style="vertical-align:middle;margin:0px 5px" /> 
-<br>
 <br> 
 <br>
+## Tools 
 <img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/RPi-Logo-Reg-SCREEN.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/github.png" style="vertical-align:middle;margin:0px 5px" /> 
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/git.png" style="vertical-align:middle;margin:0px 5px" /> 
@@ -40,7 +41,7 @@
 <br />
 
 ### Other Links
-<img src="https://raw.githubusercontent.com/ninjajoe9/crypto/main/logo.png" alt="Nin-En Logo" width="50" style="vertical-align:middle;margin:10px 10px"/> 
+- <img src="https://raw.githubusercontent.com/ninjajoe9/crypto/main/logo.png" alt="Nin-En Logo" width="50" style="vertical-align:middle;margin:10px 10px"/> 
 Check out my Cryptocurrency 忍円 (Nin-En) NINE on solscan
 
 [AsJkh4kbD2UszLxztWQ49AHj6NkK8UMYbpGmnDdpNCf6](https://solscan.io/token/AsJkh4kbD2UszLxztWQ49AHj6NkK8UMYbpGmnDdpNCf6)
@@ -48,9 +49,9 @@ Check out my Cryptocurrency 忍円 (Nin-En) NINE on solscan
 Send me a message on Discord @Skuttlefish9#9707 for some free 忍円! 
 (subject to availibility and my connection to you)
 
-Visit my [Darkweb](q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion) site - q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion
+- Visit my [Darkweb](q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion) site - q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion
 
-If you're on the amateur radio waves (HAM) listen for me! - **KX7FOX**
+- If you're on the amateur radio waves (HAM) listen for me! - **KX7FOX**
 
 ## NinjaBlog
 
