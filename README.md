@@ -34,7 +34,7 @@
 <img align="left" alt="OpenCV" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/opencv.svg.png" style="vertical-align:middle;margin:0px 5px" />  
 <img align="left" alt="TensorFlow" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/Tensorflow_logo.svg.png" style="vertical-align:middle;margin:0px 5px" />  
 <img align="left" alt="Etherum" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/ethereum.png" style="vertical-align:middle;margin:0px 5px" />  
-<img align="left" alt="Solidity" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/solidity.svg" style="vertical-align:middle;margin:0px 3px" />  
+<img align="left" alt="Solidity" width="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/solidity.png" style="vertical-align:middle;margin:0px 3px" />  
 
 
 <br />
