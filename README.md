@@ -56,7 +56,7 @@
 
 Check out my blog for musings about robots, hacking, technology, futurism, philosophy, movies and more!
 - [20220115 - I, Robot?](https://ninjajoe9.github.io/i-robot/)
-- [20220103 - Coming Soon!](https://ninjajoe9.github.io/comming-soon) 
+- [20220103 - Coming Soon!](https://ninjajoe9.github.io/coming-soon) 
 - [20211223 - New year, New Blog](https://ninjajoe9.github.io/new-year-new-blog)
 
 ➡️ [more blog posts...](https://ninjajoe9.github.io/)
