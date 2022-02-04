@@ -55,6 +55,8 @@
 ## NinjaBlog
 
 Check out my blog for musings about robots, hacking, technology, futurism, philosophy, movies and more!
+
+- [20220204 - I, Robot?: Part 2](https://ninjajoe9.github.io/i-robot-part2/)
 - [20220115 - I, Robot?](https://ninjajoe9.github.io/i-robot/)
 - [20220103 - Coming Soon!](https://ninjajoe9.github.io/coming-soon) 
 - [20211223 - New year, New Blog](https://ninjajoe9.github.io/new-year-new-blog)
