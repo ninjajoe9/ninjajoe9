@@ -48,7 +48,7 @@
     - Send me a message on Discord @Skuttlefish9#9707 for some free 忍円! 
 (subject to availability and my connection to you)
 
-* If you have a TOR browser visit my [Darkweb](q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion) site - q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion
+* If you have a TOR browser visit my [Darkweb](q7nc2x262lg5g27dp4vlxnyakm5w3denrxvk3vywdkldoulk6weyqnid.onion) site - http://JACKDWszy4rz3qewp3wfwhp2srw6k2gszjhu6uq7btmm63d5odwdvsyd.onion/
 
 * If you're on the amateur radio waves (HAM) listen for me! - ⚡️**KX7FOX**⚡️
 
