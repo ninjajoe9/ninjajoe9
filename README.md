@@ -68,7 +68,7 @@ Check out my blog for musings about robots, hacking, technology, futurism, philo
 
 <img align="left" alt="Jack's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ninjajoe9&show_icons=true&theme=dark" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjajoe9&theme=dark&&exclude_repo=ninjajoe9.github.io,ArduFoxGPS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjajoe9&theme=dark&hide=java&exclude_repo=ninjajoe9.github.io,ArduFoxGPS)
 
 <br>
 
