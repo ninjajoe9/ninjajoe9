@@ -56,11 +56,11 @@
 ## NinjaBlog
 
 Check out my blog for musings about robots, hacking, technology, futurism, philosophy, movies and more!
+- [20230113 - A Year Later](https://ninjajoe9.github.io/a-year-later/)
 - [20220724 - Whirlwind (also, a cool morse code script)](https://ninjajoe9.github.io/whirlwind/)
 - [20220329 - Focus and Sake](https://ninjajoe9.github.io/focus-and-sake/)
 - [20220303 - Meta-learning and History](https://ninjajoe9.github.io/metalearning-and-history/)
 - [20220204 - I, Robot?: Part 2](https://ninjajoe9.github.io/i-robot-part2/)
-- [20220115 - I, Robot?](https://ninjajoe9.github.io/i-robot/) 
 
 ➡️ [more blog posts...](https://ninjajoe9.github.io/)
 ---
