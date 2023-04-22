@@ -56,11 +56,11 @@
 ## NinjaBlog
 
 Check out my blog for musings about robots, hacking, technology, futurism, philosophy, movies and more!
+- [20240407] - A Masters Degree and an Afternoon](https://ninjajoe9.github.io/a-masters-degree-and-an-afternoon/)
 - [20230302 - HBFS](https://ninjajoe9.github.io/HBFS/)
 - [20230202 - First Focus](https://ninjajoe9.github.io/first-focus/)
 - [20230113 - A Year Later](https://ninjajoe9.github.io/a-year-later/)
 - [20220724 - Whirlwind (also, a cool morse code script)](https://ninjajoe9.github.io/whirlwind/)
-- [20220329 - Focus and Sake](https://ninjajoe9.github.io/focus-and-sake/)
 
 ➡️ [more blog posts...](https://ninjajoe9.github.io/)
 ---
