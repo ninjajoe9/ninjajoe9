@@ -56,11 +56,11 @@
 ## NinjaBlog
 
 Check out my blog for musings about robots, hacking, technology, futurism, philosophy, movies and more!
+- [20240115 - Books for 2024](https://ninjajoe9.github.io/Books-for-2024/)
+- [20231231 - And A Happy New Year](https://ninjajoe9.github.io/and-a-happy-new-year/)
 - [20230611 - Some Cool Resources](https://ninjajoe9.github.io/some-cool-resources/)
 - [20230611 - Digital Spartanism](https://ninjajoe9.github.io/digital-spartanism/)
 - [20230407 - A Masters Degree and an Afternoon](https://ninjajoe9.github.io/a-masters-degree-and-an-afternoon/)
-- [20230302 - HBFS](https://ninjajoe9.github.io/HBFS/)
-- [20230202 - First Focus](https://ninjajoe9.github.io/first-focus/)
 
 ➡️ [more blog posts...](https://ninjajoe9.github.io/)
 ---
