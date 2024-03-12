@@ -16,7 +16,6 @@
 <img align="left" alt="C" height="37px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/c.png" style="vertical-align:middle;margin:0px 5px" />  
 <img align="left" alt="C++" height="37px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/cpp.png" style="vertical-align:middle;margin:0px 5px" />   
 <img align="left" alt="Rust" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/rust.png" style="vertical-align:middle;margin:0px 5px" />
-<img align="left" alt="bash scripting" height="36px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/bash.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="MatLab" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/matlab.png" style="vertical-align:middle;margin:0px 5px" />
 <br>
 
@@ -24,6 +23,7 @@
 
 <img align="left" alt="Raspberry Pi" height="36px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/RPi-Logo-Reg-SCREEN.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="github" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/github.png" style="vertical-align:middle;margin:0px 5px" />
+<img align="left" alt="bash scripting" height="36px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/bash.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="VSCode" height="40px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/VSCode.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="AWS" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/aws.png" style="vertical-align:middle;margin:0px 5px"/>
 <img align="left" alt="LoRa Radio" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/lora.png" style="vertical-align:middle;margin:0px 5px" />
