@@ -25,7 +25,7 @@
 <img align="left" alt="Raspberry Pi" height="36px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/RPi-Logo-Reg-SCREEN.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="github" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/github.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="LoRa Radio" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/lora.png" style="vertical-align:middle;margin:0px 5px" />
-<img align="left" alt="AWS" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/aws.jpg" style="vertical-align:middle;margin:0px 5px"/>
+<img align="left" alt="AWS" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/aws.png" style="vertical-align:middle;margin:0px 5px"/>
 <img align="left" alt="Solidity" height="30px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/solidity.png" style="vertical-align:middle;margin:4px 5px" />  
 
 
