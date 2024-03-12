@@ -25,8 +25,8 @@
 <img align="left" alt="Raspberry Pi" height="36px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/RPi-Logo-Reg-SCREEN.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="github" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/github.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="bash scripting" height="36px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/bash.png" style="vertical-align:middle;margin:0px 0px" />
-<img align="left" alt="Ansible" height="40px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/ansible.png" style="vertical-align:middle;margin:0px 2px" /> 
-<img align="left" alt="VSCode" height="40px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/VSCode.png" style="vertical-align:middle;margin:0px 0px" />
+<img align="left" alt="Ansible" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/ansible.png" style="vertical-align:middle;margin:0px 2px" /> 
+<img align="left" alt="VSCode" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/VSCode.png" style="vertical-align:middle;margin:0px 0px" />
 <img align="left" alt="AWS" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/aws.png" style="vertical-align:middle;margin:0px 5px"/>
 <img align="left" alt="GNU Radio" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/gnuradio.png" style="vertical-align:middle;margin:0px 5px" />
  
