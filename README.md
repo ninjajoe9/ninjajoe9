@@ -12,7 +12,7 @@
 ### Languages and Tools - (ranked by familiarity)
 #### Languages
 <img align="left" alt="Python" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/Python.png" style="vertical-align:middle;margin:0px 5px" />  
-<img align="left" alt="GoLang" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/go.png" style="vertical-align:middle;margin:0px 5px" />
+<img align="left" alt="GoLang" height="30px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/go.png" style="vertical-align:middle;margin:0px 5px" />
 <img align="left" alt="C" height="37px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/c.png" style="vertical-align:middle;margin:0px 5px" />  
 <img align="left" alt="C++" height="37px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/cpp.png" style="vertical-align:middle;margin:0px 5px" />   
 <img align="left" alt="Rust" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/rust.png" style="vertical-align:middle;margin:0px 5px" />
