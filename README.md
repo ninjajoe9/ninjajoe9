@@ -37,7 +37,7 @@
 <br />
 
 ### Other Links 
-* Check out my Cryptocurrency 忍円 (Nin-En) NINE on solscan <img src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/logo.png" alt="Nin-En Logo" width="20" style="vertical-align:bottom;margin:0px 0px"/>
+* Check out my Cryptocurrency 忍円 (Nin-En) NINE on solscan <img src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/logo.png" alt="Nin-En Logo" width="20" style="vertical-align:top;margin:0px 0px"/>
 
     - [AsJkh4kbD2UszLxztWQ49AHj6NkK8UMYbpGmnDdpNCf6](https://solscan.io/token/AsJkh4kbD2UszLxztWQ49AHj6NkK8UMYbpGmnDdpNCf6)
 
