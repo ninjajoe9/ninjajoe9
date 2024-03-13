@@ -9,7 +9,7 @@
 - Hacking
 - Electronic/Computer Engineering
 
-### Languages and Tools - (ranked by familiarity)
+### Languages and Tools
 #### Languages
 <img align="left" alt="Python" height="35px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/Python.png" style="vertical-align:middle;margin:0px 5px" />  
 <img align="left" alt="GoLang" height="30px" src="https://raw.githubusercontent.com/ninjajoe9/ninjajoe9/main/logos/go.png" style="vertical-align:middle;margin:0px 5px" />
