@@ -51,7 +51,7 @@
 ## NinjaBlog
 
 Check out my blog for musings about robots, hacking, technology, futurism, philosophy, movies and more!
-- [20230701 - Semiannual Checkin](https://ninjajoe9.github.io/semi-annual-checkin/)
+- [20240701 - Semiannual Checkin](https://ninjajoe9.github.io/semi-annual-checkin/)
 - [20240115 - Books for 2024](https://ninjajoe9.github.io/Books-for-2024/)
 - [20231231 - And A Happy New Year](https://ninjajoe9.github.io/and-a-happy-new-year/)
 - [20230611 - Some Cool Resources](https://ninjajoe9.github.io/some-cool-resources/)
