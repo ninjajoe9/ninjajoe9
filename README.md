@@ -1,4 +1,7 @@
 # Welcome to Jack's Codecrypt ⠠⠵
+
+20260701--WOEFULLY OUT OF DATE--CHECK BACK LATER FOR SOMETHING GOOD. 
+
 ## Jack Locke
 *Space Enthusiast, Amateur Hacker, Future Cyborg.* 🚀 💻 🤖
 
